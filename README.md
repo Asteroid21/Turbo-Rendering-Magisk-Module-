@@ -1,3 +1,4 @@
+[TurboRender 1.1 BETA.zip](https://github.com/Asteroid21/Turbo-Rendering-Magisk-Module-/files/11615111/TurboRender.1.1.BETA.zip)
 # Turbo Rendering
 
 #### Features:
