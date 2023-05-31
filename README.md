@@ -32,4 +32,4 @@
 
 
  
- ## [Download](https://github.com/Asteroid21/Turbo-Rendering-Magisk-Module-/files/11614473/Turbo.Rendering.zip) V1.0 Beta
+ ## [Download](https://github.com/Asteroid21/Turbo-Rendering-Magisk-Module-/files/11614473/Turbo.Rendering.zip) V1.1 Beta
