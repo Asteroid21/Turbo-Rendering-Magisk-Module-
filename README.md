@@ -26,6 +26,10 @@
  - EmperorEye1993 GPU Turbo Boost module
  
  - [@Sangtui](https://t.me/Sangtui) ReLife GPU Booster & GPU Boost Module
- 
+
+- [@mohd_syahrul](https://t.me/mohd_syahrul) Teach me encrypted the script
+
+
+
  
  ## [Download](https://github.com/Asteroid21/Turbo-Rendering-Magisk-Module-/files/11614473/Turbo.Rendering.zip) V1.0 Beta
