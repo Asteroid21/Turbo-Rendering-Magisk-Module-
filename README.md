@@ -1,0 +1,31 @@
+# Turbo Rendering
+
+#### • Features:
+ 
+ - Disable Vsync
+ - GPU Boost for mediatek
+ - FPS Stabilizer
+ - OpenGLES 1.1 CM
+ - SkiaGL Renderer
+ - Hardware Acceleration
+ - Rendering Tweak
+ - Change Renderer & OPENGLES Version. see /system/bin in the module
+ 
+### • Note
+
+ - Only for MediaTek devices!
+ 
+### • Credits
+
+ - [@Laynsb](https://t.me/Laynsb) HWGLES module
+ 
+ - @topjohnwu Module Template and Magisk developer
+ 
+ - [@bang_levv](https://t.me/bang_levv) GPU Perf module
+ 
+ - EmperorEye1993 GPU Turbo Boost module
+ 
+ - [@Sangtui](https://t.me/Sangtui) ReLife GPU Booster & GPU Boost Module
+ 
+ 
+ ## [Download]() V1.0 Beta
