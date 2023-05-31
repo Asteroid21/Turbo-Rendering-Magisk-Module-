@@ -1,6 +1,6 @@
 # Turbo Rendering
 
-#### • Features:
+#### Features:
  
  - Disable Vsync
  - GPU Boost for mediatek
@@ -11,11 +11,11 @@
  - Rendering Tweak
  - Change Renderer & OPENGLES Version. see /system/bin in the module
  
-### • Note
+### Note
 
  - Only for MediaTek devices!
  
-### • Credits
+### Credits
 
  - [@Laynsb](https://t.me/Laynsb) HWGLES module
  
