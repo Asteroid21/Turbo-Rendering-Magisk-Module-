@@ -19,7 +19,7 @@
 
  - [@Laynsb](https://t.me/Laynsb) HWGLES module
  
- - @topjohnwu Module Template and Magisk developer
+ - topjohnwu Module Template and Magisk developer
  
  - [@bang_levv](https://t.me/bang_levv) GPU Perf module
  
@@ -28,4 +28,4 @@
  - [@Sangtui](https://t.me/Sangtui) ReLife GPU Booster & GPU Boost Module
  
  
- ## [Download]() V1.0 Beta
+ ## [Download](https://github.com/Asteroid21/Turbo-Rendering-Magisk-Module-/files/11614473/Turbo.Rendering.zip) V1.0 Beta
